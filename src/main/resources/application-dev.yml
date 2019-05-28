@@ -1,0 +1,33 @@
+server:
+  port: 8080
+  servlet:
+    context-path: "/"
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/mshop?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: root
+    password: 5391848
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: UTC
+
+# 日志配置, 默认 spring web是 info
+logging:
+  config: classpath:logback-config.xml
+  level:
+    org:
+      springframework:
+        boot: INFO
+        web: DEBUG
+      mybatis: INFO
+# 设置debug: true 就可以在启动程序使用 --debug 设置日志级别了
+debug: true
+
+
+

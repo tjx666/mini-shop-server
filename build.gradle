@@ -1,0 +1,43 @@
+plugins {
+    id 'org.springframework.boot' version '2.1.5.RELEASE'
+    id 'java'
+    id 'war'
+    id 'idea'
+}
+
+apply plugin: 'io.spring.dependency-management'
+
+group = 'com.ytj'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+
+    developmentOnly
+    runtimeClasspath {
+        extendsFrom developmentOnly
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // build tools
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
+    developmentOnly("org.springframework.boot:spring-boot-devtools")
+
+    // database
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-jpa', version: '2.1.5.RELEASE'
+    runtimeOnly 'mysql:mysql-connector-java'
+
+    // test
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
