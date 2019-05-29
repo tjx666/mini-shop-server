@@ -19,7 +19,7 @@ public class ResultGenerator {
                 .setData(data);
     }
 
-    public static Result genFailResult(String message) {
+    public static Result<String> genFailResult(String message) {
         return new Result()
                 .setCode(ResultCode.FAIL)
                 .setMessage(message);

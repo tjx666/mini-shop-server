@@ -18,10 +18,13 @@ public class RegisterController {
     @Autowired
     private UserService userService;
 
-    @PostMapping(value = "/register", consumes = "*/*")
+    @PostMapping(value = "/register")
     public Result<String> register(@RequestBody RegisterPostBody body) {
-        userService.register(new User(body.getEmail(), body.getName(), body.getPassword(), body.getPhone()));
-        return ResultGenerator.genSuccessResult("注册成功!");
+        if (userService.register(new User(body.getEmail(), body.getName(), body.getPassword(), body.getPhone()))) {
+            return ResultGenerator.genSuccessResult("注册成功!");
+        } else {
+            return ResultGenerator.genFailResult("注册失败，用户可能已存在。");
+        }
     }
 }
 
