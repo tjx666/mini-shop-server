@@ -20,4 +20,12 @@ public class UserServiceImpl implements UserService {
         userRepository.save(user);
         return true;
     }
+
+    @Override
+    public boolean checkLogin(String email, String password) {
+        Optional<User> existedUser = userRepository.findById(email);
+        return existedUser.isPresent() && existedUser.get().getPassword().equals(password);
+    }
+
+
 }
