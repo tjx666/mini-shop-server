@@ -13,7 +13,7 @@ import javax.persistence.*;
 public class User {
     @Id
     private String email;
-    private int permission;
+    private Integer permission;
     private String name;
     private String password;
     private String orders;
