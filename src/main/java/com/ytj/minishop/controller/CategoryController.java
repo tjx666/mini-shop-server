@@ -28,8 +28,8 @@ public class CategoryController {
     }
 
 
-    @GetMapping(value = "")
-    public Result getCategories() {
+    @GetMapping(value = "/trees")
+    public Result getCategoryTrees() {
         ServiceResult<CategoryTreeNode[]> result = categoryService.getCategoryTrees();
         if (result.getCode() == 0) {
             return ResultGenerator.genSuccessResult(result.getData());

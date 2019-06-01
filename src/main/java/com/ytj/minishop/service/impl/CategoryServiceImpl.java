@@ -78,6 +78,7 @@ public class CategoryServiceImpl implements CategoryService {
                                                     level3Node.setId(level3Category.getId());
                                                     level3Node.setName(level3Category.getName());
                                                     level3Node.setParent(level3Category.getParent());
+                                                    level3Node.setChildren(new CategoryTreeNode[]{});
                                                     return level3Node;
                                                 }
                                             })
