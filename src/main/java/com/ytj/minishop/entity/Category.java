@@ -19,11 +19,12 @@ public class Category {
     @Id
     private Long id;
     private String name;
-    private Category parent;
-    private Category[] children;
+    private Long parent;
+    private String children;
 
     protected Category() {}
-    public Category(String name) {
+    public Category(String name, Long parent) {
         this.name = name;
+        this.parent = parent;
     }
 }

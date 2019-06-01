@@ -1,106 +1,93 @@
-2019-05-29 19:13:56,010 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 7556 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:13:56,016 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:13:56,016 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:15:37,952 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10788 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:15:37,956 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:15:37,957 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:15:42,162 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.704 seconds (JVM running for 5.777)
-2019-05-29 19:22:10,280 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10788 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:22:10,281 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:22:10,282 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:22:11,270 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.034 seconds (JVM running for 394.885)
-2019-05-29 19:24:43,986 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6740 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:24:43,990 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:24:43,991 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:24:47,992 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.637 seconds (JVM running for 5.766)
-2019-05-29 19:27:46,317 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6740 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:27:46,317 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:27:46,317 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:27:48,647 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6740 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:27:48,648 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:27:48,648 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:28:56,208 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6740 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:28:56,209 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:28:56,209 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:28:57,202 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.033 seconds (JVM running for 254.975)
-2019-05-29 19:30:30,614 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6740 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:30:30,614 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:30:30,615 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:30:31,312 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.728 seconds (JVM running for 349.085)
-2019-05-29 19:30:44,851 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6984 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:30:44,854 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:30:44,855 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:30:49,404 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.192 seconds (JVM running for 6.121)
-2019-05-29 19:41:05,846 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 11728 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:41:05,850 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:41:05,851 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:41:10,370 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.137 seconds (JVM running for 6.158)
-2019-05-29 19:43:27,497 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 11728 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:43:27,498 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:43:27,498 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:43:28,629 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.17 seconds (JVM running for 144.417)
-2019-05-29 19:43:58,180 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 7640 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:43:58,183 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:43:58,184 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:44:02,698 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.04 seconds (JVM running for 5.932)
-2019-05-29 19:48:28,597 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 19:48:28,600 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 19:48:28,601 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 19:48:32,597 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.629 seconds (JVM running for 5.642)
-2019-05-29 20:01:45,402 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 20:01:45,403 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 20:01:45,403 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 20:01:46,365 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.009 seconds (JVM running for 799.41)
-2019-05-29 20:47:16,821 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 20:47:16,821 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 20:47:16,821 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 20:47:20,105 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 20:47:20,105 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 20:47:20,106 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 20:47:21,044 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.976 seconds (JVM running for 3534.089)
-2019-05-29 21:01:45,583 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:01:45,583 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:01:45,584 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:01:46,511 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.966 seconds (JVM running for 4399.556)
-2019-05-29 21:07:47,245 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 5620 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:07:47,245 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:07:47,245 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:07:47,905 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.695 seconds (JVM running for 4760.951)
-2019-05-29 21:08:31,645 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10132 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:08:31,654 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:08:31,655 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:08:36,289 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.243 seconds (JVM running for 6.352)
-2019-05-29 21:10:16,575 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10132 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:10:16,577 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:10:16,577 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:10:17,795 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.275 seconds (JVM running for 107.859)
-2019-05-29 21:12:45,123 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10000 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:12:45,127 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:12:45,128 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:12:49,714 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.243 seconds (JVM running for 6.289)
-2019-05-29 21:15:16,088 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10000 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:15:16,088 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:15:16,089 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:15:16,962 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.926 seconds (JVM running for 153.537)
-2019-05-29 21:17:41,217 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10000 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:17:41,218 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:17:41,218 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:18:07,235 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6612 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:18:07,239 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:18:07,239 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:18:11,819 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.249 seconds (JVM running for 6.295)
-2019-05-29 21:52:45,898 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6612 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:52:45,899 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:52:45,899 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:58:41,954 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6612 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 21:58:41,954 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 21:58:41,954 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 21:58:42,855 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.942 seconds (JVM running for 2438.648)
-2019-05-29 22:28:39,359 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 6612 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 22:28:39,359 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 22:28:39,360 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 22:28:40,192 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.883 seconds (JVM running for 4235.985)
-2019-05-29 22:58:46,374 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 13632 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
-2019-05-29 22:58:46,377 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
-2019-05-29 22:58:46,378 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
-2019-05-29 22:58:50,453 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.794 seconds (JVM running for 5.917)
+2019-06-01 16:49:13,537 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 964 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 16:49:13,541 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 16:49:13,542 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 16:49:19,735 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 7.016 seconds (JVM running for 8.953)
+2019-06-01 16:59:31,308 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 13724 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 16:59:31,312 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 16:59:31,312 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 16:59:36,418 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.785 seconds (JVM running for 6.939)
+2019-06-01 17:02:43,631 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 13724 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:02:43,631 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:02:43,631 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:02:44,744 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.155 seconds (JVM running for 195.271)
+2019-06-01 17:03:15,273 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 11736 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:03:15,276 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:03:15,277 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:03:20,727 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 6.113 seconds (JVM running for 7.264)
+2019-06-01 17:05:54,100 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:05:54,104 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:05:54,104 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:05:59,246 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.892 seconds (JVM running for 6.895)
+2019-06-01 17:18:44,647 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:18:44,647 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:18:44,647 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:18:46,179 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:18:46,179 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:18:46,179 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:19:07,607 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:19:07,608 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:19:07,608 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:30:20,662 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:30:20,663 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:30:20,663 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:32:37,806 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:32:37,807 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:32:37,807 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:32:38,662 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.89 seconds (JVM running for 1606.315)
+2019-06-01 17:36:12,205 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:36:12,205 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:36:12,205 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:36:13,127 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.961 seconds (JVM running for 1820.781)
+2019-06-01 17:39:57,752 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:39:57,753 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:39:57,753 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:39:58,494 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.774 seconds (JVM running for 2046.147)
+2019-06-01 17:40:02,317 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:40:02,317 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:40:02,317 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:40:03,170 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.88 seconds (JVM running for 2050.823)
+2019-06-01 17:40:28,209 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 10804 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:40:28,210 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:40:28,210 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:40:29,026 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 0.859 seconds (JVM running for 2076.68)
+2019-06-01 17:45:05,909 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 16328 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:45:05,911 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:45:05,912 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:45:10,193 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.898 seconds (JVM running for 5.955)
+2019-06-01 17:47:15,575 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 16328 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:47:15,575 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:47:15,575 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:47:43,486 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 7140 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:47:43,490 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:47:43,508 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:47:48,108 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.299 seconds (JVM running for 6.278)
+2019-06-01 17:49:44,412 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 7140 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:49:44,412 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:49:44,412 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:50:09,846 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 12268 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:50:09,857 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:50:09,858 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:50:14,657 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.497 seconds (JVM running for 6.413)
+2019-06-01 17:51:16,794 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 12268 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:51:16,794 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:51:16,794 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:51:17,861 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 1.109 seconds (JVM running for 69.617)
+2019-06-01 17:53:18,160 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 16316 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:53:18,163 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:53:18,163 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:53:22,371 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.989 seconds (JVM running for 5.985)
+2019-06-01 17:54:00,939 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 11304 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 17:54:00,942 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 17:54:00,942 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 17:54:05,290 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 4.966 seconds (JVM running for 5.925)
+2019-06-01 18:04:42,582 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 12024 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 18:04:42,586 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 18:04:42,586 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 18:04:47,593 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.749 seconds (JVM running for 7.082)
+2019-06-01 18:05:41,833 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 12024 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 18:05:41,833 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 18:05:41,833 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 18:05:55,080 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 50 - Starting MiniShopApplication on DESKTOP-618QBHG with PID 16296 (D:\Code\Java\Spring\mini-shop\out\production\classes started by YuTengjing in D:\Code\Java\Spring\mini-shop)
+2019-06-01 18:05:55,135 [restartedMain] DEBUG com.ytj.minishop.MiniShopApplication 53 - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2019-06-01 18:05:55,136 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 679 - The following profiles are active: dev
+2019-06-01 18:05:59,729 [restartedMain] INFO  com.ytj.minishop.MiniShopApplication 59 - Started MiniShopApplication in 5.524 seconds (JVM running for 6.511)

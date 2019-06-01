@@ -1,20 +1,17 @@
 package com.ytj.minishop.controller;
 
+import com.ytj.minishop.dto.user.LoginPostBody;
+import com.ytj.minishop.dto.user.RegisterPostBody;
+import com.ytj.minishop.entity.User;
 import com.ytj.minishop.service.UserService;
 import com.ytj.minishop.util.Result;
 import com.ytj.minishop.util.ResultGenerator;
-import lombok.Getter;
-import lombok.Setter;
-import lombok.ToString;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
-@RequestMapping("/")
+@RequestMapping("/users")
 @RestController
-public class LoginController {
+public class UserController {
     @Autowired
     private UserService userService;
 
@@ -31,12 +28,17 @@ public class LoginController {
             return ResultGenerator.genFailResult("登入失败，请检查您的邮箱和密码！");
         }
     }
+
+    @PostMapping(value = "/register")
+    public Result<String> register(@RequestBody RegisterPostBody body) {
+        if (userService.register(new User(body.getEmail(), body.getName(), body.getPassword(), body.getPhone()))) {
+            return ResultGenerator.genSuccessResult("注册成功!");
+        } else {
+            return ResultGenerator.genFailResult("注册失败，用户可能已存在。");
+        }
+    }
 }
 
-@Getter
-@Setter
-@ToString
-class LoginPostBody {
-    private String email;
-    private String password;
-}
+
+
+
