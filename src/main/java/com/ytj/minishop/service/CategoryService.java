@@ -5,4 +5,5 @@ import com.ytj.minishop.util.ServiceResult;
 
 public interface CategoryService {
     ServiceResult create(Category category);
+    ServiceResult getCategoryTrees();
 }

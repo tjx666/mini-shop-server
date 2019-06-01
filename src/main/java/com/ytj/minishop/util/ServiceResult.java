@@ -1,10 +1,12 @@
 package com.ytj.minishop.util;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
+@AllArgsConstructor
 public class ServiceResult<T> {
     private int code;
     private String message;
